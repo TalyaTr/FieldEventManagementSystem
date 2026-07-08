@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FieldEventManagementSystem.Controllers.FieldEventController",
+    "Method": "SendFieldEvent",
+    "RelativePath": "api/FieldEvent/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BL.FieldEventDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
