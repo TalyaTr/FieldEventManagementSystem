@@ -9,4 +9,20 @@ node_modules/
 Thumbs.db
 
 # Ignore log files
-*.log 
+*.log
+
+# Visual Studio cache
+.vs/
+*.vsidx
+*.suo
+*.user
+*.cache
+*.db
+
+# Build output
+bin/
+obj/
+
+# Other temporary files
+*.log
+*.tmp 
