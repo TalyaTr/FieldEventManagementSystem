@@ -53,6 +53,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Twilio": {
+              "target": "Package",
+              "version": "[7.14.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

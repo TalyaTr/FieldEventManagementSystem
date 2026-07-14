@@ -74,3 +74,11 @@ C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManageme
 C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\DAL.dll
 C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\BL.pdb
 C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\DAL.pdb
+C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\talya\OneDrive\Documents\Visual Studio 2022\Projects\FieldEventManagementSystem\FieldEventManagementSystem\bin\Debug\net8.0\Twilio.dll

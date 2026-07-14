@@ -1,6 +1,10 @@
 ﻿using System.Diagnostics;
+using BL.Shared;
 using DAL;
 using DAL.DataObjects;
+using Twilio;
+using Twilio.Http;
+using Twilio.Rest.Api.V2010.Account;
 
 namespace BL
 {
@@ -29,7 +33,7 @@ namespace BL
                 fieldEvent.Desc = details.Description;
                 fieldEvent.UserId = details.UserId;
                 fieldEvent.SourseId = details.SourceId;
-                fieldEvent.StatusId = 1;
+                fieldEvent.StatusId = (int)Enums.FieldEventStatus.New; 
                 fieldEvent.StartDate = DateTime.Now;
 
                 _dbContext.Add(fieldEvent);
@@ -55,7 +59,25 @@ namespace BL
 
         public async Task SendAlertToDispatcher(long id)
         {
+            string accountSid = "YOUR_ACCOUNT_SID";
+            string authToken = "YOUR_AUTH_TOKEN";
+            try
+            {
+                Employee dispatcher = _dbContext.Employees.FirstOrDefault(e => e.EmployeeCategoryId == (int)Enums.EmployeeCategory.Dispatcher);
+              
+                TwilioClient.Init(accountSid, authToken);
+                var message = MessageResource.Create(
+                body: $"A new event has been received. Event number: {id.ToString()}",
+                from: new Twilio.Types.PhoneNumber("0528979117"),
+                to: new Twilio.Types.PhoneNumber(dispatcher.PhoneNumber)
+            );
+            }
+            catch (Exception ex)
+            {
 
+                await Log(ex.Message, (int)id);
+            }
+          
         }
         public async Task Log(string message)
         {
