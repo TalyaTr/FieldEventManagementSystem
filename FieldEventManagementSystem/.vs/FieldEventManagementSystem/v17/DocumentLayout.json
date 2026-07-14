@@ -3,11 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\FieldEventManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{757FC099-93BF-43F6-8663-81E789F41424}|..\\BL\\BL.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\bl\\fieldeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6706AE-8078-4906-8840-3B0F5340146A}|FieldEventManagementSystem.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\fieldeventmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6706AE-8078-4906-8840-3B0F5340146A}|FieldEventManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6706AE-8078-4906-8840-3B0F5340146A}|FieldEventManagementSystem.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\fieldeventmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E6706AE-8078-4906-8840-3B0F5340146A}|FieldEventManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0753DD8D-AE2B-47E8-97BA-D4D3B971F6BD}|..\\DAL\\DAL.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\dal\\fieldeventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E6706AE-8078-4906-8840-3B0F5340146A}|FieldEventManagementSystem.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\fieldeventmanagementsystem\\controllers\\fieldeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E6706AE-8078-4906-8840-3B0F5340146A}|FieldEventManagementSystem.csproj|solutionrelative:controllers\\fieldeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757FC099-93BF-43F6-8663-81E789F41424}|..\\BL\\BL.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\bl\\fieldeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{757FC099-93BF-43F6-8663-81E789F41424}|..\\BL\\BL.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\bl\\shared\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -20,13 +31,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF68B94C-C683-444E-9CBF-89812DAEBD45}|..\\TestProject\\TestProject.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E6706AE-8078-4906-8840-3B0F5340146A}|FieldEventManagementSystem.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\fieldeventmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E6706AE-8078-4906-8840-3B0F5340146A}|FieldEventManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0753DD8D-AE2B-47E8-97BA-D4D3B971F6BD}|..\\DAL\\DAL.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\dal\\fieldeventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0753DD8D-AE2B-47E8-97BA-D4D3B971F6BD}|..\\DAL\\DAL.csproj|c:\\users\\talya\\onedrive\\documents\\visual studio 2022\\projects\\fieldeventmanagementsystem\\dal\\dataobjects\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,46 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\BL\\Shared\\Enums.cs",
-              "RelativeDocumentMoniker": "..\\BL\\Shared\\Enums.cs",
-              "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\BL\\Shared\\Enums.cs",
-              "RelativeToolTip": "..\\BL\\Shared\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T18:18:25.439Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\FieldEventManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\FieldEventManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-14T21:41:48.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\TestProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\TestProject\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\TestProject\\UnitTest1.cs",
-              "RelativeToolTip": "..\\TestProject\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T23:49:18.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Source.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\DAL\\DataObjects\\Source.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DataObjects\\Source.cs",
-              "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\DAL\\DataObjects\\Source.cs",
-              "RelativeToolTip": "..\\DAL\\DataObjects\\Source.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T21:05:03.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\DAL\\DataObjects\\User.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DataObjects\\User.cs",
@@ -102,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FieldEventDetails.cs",
               "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\BL\\FieldEventDetails.cs",
               "RelativeDocumentMoniker": "..\\BL\\FieldEventDetails.cs",
@@ -115,33 +93,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FieldEventController.cs",
               "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\FieldEventManagementSystem\\Controllers\\FieldEventController.cs",
               "RelativeDocumentMoniker": "Controllers\\FieldEventController.cs",
               "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\FieldEventManagementSystem\\Controllers\\FieldEventController.cs",
               "RelativeToolTip": "Controllers\\FieldEventController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvysAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwCUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T17:33:18.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FieldEventService.cs",
               "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\BL\\FieldEventService.cs",
               "RelativeDocumentMoniker": "..\\BL\\FieldEventService.cs",
               "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\BL\\FieldEventService.cs",
               "RelativeToolTip": "..\\BL\\FieldEventService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowEoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwFsAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T16:34:48.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "FieldEventContext.cs",
               "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\DAL\\FieldEventContext.cs",
               "RelativeDocumentMoniker": "..\\DAL\\FieldEventContext.cs",
@@ -154,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\DAL\\DataObjects\\Employee.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DataObjects\\Employee.cs",
@@ -167,15 +145,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\FieldEventManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\FieldEventManagementSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T21:55:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Source.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\DAL\\DataObjects\\Source.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataObjects\\Source.cs",
+              "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\DAL\\DataObjects\\Source.cs",
+              "RelativeToolTip": "..\\DAL\\DataObjects\\Source.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T21:05:03.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T23:49:18.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\BL\\Shared\\Enums.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Shared\\Enums.cs",
+              "ToolTip": "C:\\Users\\talya\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\FieldEventManagementSystem\\BL\\Shared\\Enums.cs",
+              "RelativeToolTip": "..\\BL\\Shared\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:18:25.439Z",
               "EditorCaption": ""
             }
           ]
